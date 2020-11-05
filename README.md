@@ -5,6 +5,6 @@ Um simples aplicativo usando kotlin.
 ![alt text](telaApresentacaoCalculando.png)
 
 #### a lógica da aplicação
-![alt text](logica da aplicacao.png)
+![alt text](logica_da_aplicacao.png)
 
 
